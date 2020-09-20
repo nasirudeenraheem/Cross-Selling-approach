@@ -9,4 +9,4 @@ Public Rank - 14
 
 Private Rank -
 
-
+Blending = 0.54 LigthGbm + 0.46 Catboost
